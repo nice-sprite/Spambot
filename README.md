@@ -1,0 +1,2 @@
+# Spambot
+**EDUCATIONAL PURPOSES ONLY**
